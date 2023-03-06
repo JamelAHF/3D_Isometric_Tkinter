@@ -1,4 +1,4 @@
-# 3D_Isometric_Tkinter
+# 3D Isometric with Tkinter
 
 # Description
 
