@@ -1,10 +1,10 @@
 # 3D Isometric with Tkinter
 
-# Description
+## Description
 
 Ceci est une application Python permettant de modéliser une scène en 3D Isométrique à l'aide de cubes dans un repère.
 
-# Utilisation
+## Utilisation
  - Exécution du fichier interface.py en python3
         -> commande: python3 interface.py
         
